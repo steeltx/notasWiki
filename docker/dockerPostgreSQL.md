@@ -1,4 +1,4 @@
-# Instalación de MariaDB en Docker
+# Instalación de PostgreSQL en Docker
 
 En esta guía se muestran las configuraciones necesarias para instalar PostgreSQL con Docker y Docker Compose en el sistema Debian.
 
@@ -102,3 +102,4 @@ https://hub.docker.com/_/postgres
 https://dev.to/raphaelmansuy/postgres-up-and-running-in-less-than-3-minutes-with-docker-compose-1odd
 
 https://www.pgadmin.org/
+
