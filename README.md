@@ -11,6 +11,9 @@
 ## Linux 
 - [Comandos básicos](/linux/comandosBasicos.md)
 
+## Oracle Cloud
+- [Creación de VM](/oracleCloud/ocivm/ocivm.md)
+
 
 ### Sitio
 - https://regwiki.sytes.net/
