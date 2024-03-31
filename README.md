@@ -14,6 +14,9 @@
 ## Oracle Cloud
 - [Creación de VM](/oracleCloud/ocivm/ocivm.md)
 
+## Desarrollo Web
+- [Publicar sitio de React en Cloudflare Pages](/desarrolloWeb/react/CloudflarePages/CloudflarePages.md)
+
 
 ### Sitio
 - https://regwiki.sytes.net/
