@@ -1,6 +1,8 @@
 
 # Instalación de Docker en Alma Linux 9
 
+En esta guía se muestran las configuraciones necesarias para instalar Docker en Alma Linux 9.
+
 ## Requerimientos
 - Sistema Alma Linux 9
 - Acceso a la terminal de root
