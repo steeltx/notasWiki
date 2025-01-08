@@ -1,6 +1,8 @@
 > Algunas configuraciones sobre diferentes temas.
 
 ## Docker 
+- [Docker en Alma Linux 9](/docker/almaLinuxDocker.md)
+
 - [MariaDB en Docker](/docker/dockerMariaDB.md)
 
 - [Sql Server en Docker](/docker/dockerSQLServer.md)
@@ -12,6 +14,8 @@
 
 ## Linux 
 - [Comandos básicos](/linux/comandosBasicos.md)
+
+- [Entorno Desarrollo Spring Boot en Linux Mint](/linux/entornoSpringMint.md)
 
 ## Oracle Cloud
 - [Creación de VM](/oracleCloud/ocivm/ocivm.md)
