@@ -15,6 +15,8 @@
 
 ## Linux 
 
+- [Instalación de Manjaro Linux de forma encriptada](/linux/installManjaro.md)
+
 - [Instalación de Openmediavault en KVM](/linux/omv.md)
 
 - [Creación de maquinas virtuales con KVM en Linux](/linux/kvmLinux.md)
