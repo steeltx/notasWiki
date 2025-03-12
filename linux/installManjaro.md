@@ -9,13 +9,13 @@ En esta guía se muestran las configuraciones para instalar la distro Manjaro po
 
 Para instalar KVM en Linux, podemos ver la siguiente guía
 
-- [Creación de máquinas virtuales con KVM en Linux](/linux/kvmLinux.md){:target="_blank"}
+- [Creación de máquinas virtuales con KVM en Linux](/linux/kvmLinux.md)
 
 ## Creación de maquina virtual
 
 En caso de realizar la instalación mediante KVM seguimos los siguientes pasos, en caso de que sea con un equipo físico, descargar la ISO y realizar una USB Booteable.
 
-- Descargar imagen ISO desde el sitio oficial de Manjaro [Manjaro Descargar](https://manjaro.org/products/download/x86){:target="_blank"}, para este caso usaremos el entorno de escritorio XFCE, pero se puede usar KDE Plasma, esto de acuerdo a los recursos del equipo donde se va a instalar.
+- Descargar imagen ISO desde el sitio oficial de Manjaro [Manjaro Descargar](https://manjaro.org/products/download/x86), para este caso usaremos el entorno de escritorio XFCE, pero se puede usar KDE Plasma, esto de acuerdo a los recursos del equipo donde se va a instalar.
 
 ![](imgmanjaro/1.png)
 
@@ -84,7 +84,7 @@ En caso de realizar la instalación mediante KVM seguimos los siguientes pasos, 
 
 De esta manera, creamos todas las particiones necesarias para nuestro sistema Manjaro mediante el particionado automático que nos ofrece el instalador. 
 
-La encriptación se realiza mediante **LUKS**, si desea conocer mas acerca de este tema, visitar el siguiente sitio: [LUKS](https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/security_hardening/encrypting-block-devices-using-luks_security-hardening#encrypting-block-devices-using-luks_security-hardening){:target="_blank"}
+La encriptación se realiza mediante **LUKS**, si desea conocer mas acerca de este tema, visitar el siguiente sitio: [LUKS](https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/security_hardening/encrypting-block-devices-using-luks_security-hardening#encrypting-block-devices-using-luks_security-hardening)
 
 - Al terminar y estar seguros del particionado que se realiza, dar clic en Siguiente.
 
@@ -143,8 +143,8 @@ La encriptación se realiza mediante **LUKS**, si desea conocer mas acerca de es
 De esta manera, tenemos un sistema Manjaro Linux  instalado correctamente y podemos iniciar a instalar las aplicaciones que deseamos.
 
 ## Referencias
-[Manjaro Linux](https://manjaro.org/){:target="_blank"}
+[Manjaro Linux](https://manjaro.org/)
 
-[SWAP](https://aprendolinux.com/la-memoria-swap-en-linux/#:~:text=La%20memoria%20swap%2C%20tambi%C3%A9n%20conocida,trasladan%20a%20la%20memoria%20swap.){:target="_blank"}
+[SWAP](https://aprendolinux.com/la-memoria-swap-en-linux/#:~:text=La%20memoria%20swap%2C%20tambi%C3%A9n%20conocida,trasladan%20a%20la%20memoria%20swap.)
 
-[LUKS](https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/security_hardening/encrypting-block-devices-using-luks_security-hardening#encrypting-block-devices-using-luks_security-hardening){:target="_blank"}
+[LUKS](https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/security_hardening/encrypting-block-devices-using-luks_security-hardening#encrypting-block-devices-using-luks_security-hardening)
