@@ -33,6 +33,8 @@
 
 ## Desarrollo Web
 
+- [Entorno Desarrollo React en Linux Mint](/desarrolloWeb/react/entornoDevReactLinux.md)
+
 - [Publicar sitio de React en Cloudflare Pages](/desarrolloWeb/react/CloudflarePages/CloudflarePages.md)
 
 
