@@ -2,6 +2,10 @@
 
 # Linux
 
+## Cloud
+
+- [Uso de OVHcloud Object Storage desde CLI en Linux](/cloud/ovhcloud-object-storage-cli.md)
+
 ## Servidor de aplicaciones
 
 - [Configuración para deploy de aplicación Java en servidor JBoss en Linux](/linux/jboss-linux-deploy.md)
