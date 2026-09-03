@@ -4,6 +4,8 @@
 
 ## Cloud
 
+- [Uso de Amazon S3 desde CLI en Linux](/cloud/aws-s3-cli.md)
+
 - [Uso de OVHcloud Object Storage desde CLI en Linux](/cloud/ovhcloud-object-storage-cli.md)
 
 ## Servidor de aplicaciones
