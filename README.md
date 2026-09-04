@@ -34,6 +34,8 @@
 
 ## Distros
 
+- [Instalación de Red Hat Enterprise Linux (RHEL) desde Virtualbox en Linux](/linux/instalacion-rhel.md)
+
 - [Instalación de Debian 13 Trixie](/linux/instalacionDebian13.md)
 
 - [Creación de maquinas virtuales con KVM en Linux](/linux/kvmLinux.md)
